@@ -17,12 +17,12 @@ def write_device():
     device = sessionamento_device()
     device = device.toJSON().collect()
     with open(path+'device_family.json', 'w') as json_file:
-        json.dump(browser, json_file)
+        json.dump(device, json_file)
     return 'Arquivo device_family.json criado'
 
 def write_os():
     os = sessionamento_os()
     os = os.toJSON().collect()
     with open(path+'os_family.json', 'w') as json_file:
-        json.dump(browser, json_file)
+        json.dump(os, json_file)
     return 'Arquivo os_family.json criado'

@@ -45,5 +45,5 @@ Para o desenvolvimento da aplicação, foi utilizado como IDE o VS Code.
 
 
 ## Utilização da Aplicação
-### Ao iniciar a aplicação executando o comando "python3 app.py" pelo terminal, terá uma tela no console com as opções de agrupamento, ao selecionar uma delas, a aplicação irá criar um arquivo json com as informações agrupadas como solicitado
+### Ao iniciar a aplicação executando o comando "python app.py" pelo terminal, terá uma tela no console com as opções de agrupamento, ao selecionar uma delas, a aplicação irá criar um arquivo json com as informações agrupadas como solicitado
 

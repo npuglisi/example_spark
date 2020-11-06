@@ -29,13 +29,13 @@ Após a instalação, é preciso incluir duas linhas novas nas variaveis de ambi
 
 ## Desenvolvimento
 
-### Foi utilizado as ferramentas Spark e Python, ou seja, pyspark, como pede o enunciado.
+Foi utilizado as ferramentas Spark e Python, ou seja, pyspark, como pede o enunciado.
 Para organização do código, foi utilizado a idéia de design pattern Clean, pois ele utiliza SOLID e traz a clareza das responsabilidades de cada item, deixando o código limpo e organizado.
 Para o desenvolvimento da aplicação, foi utilizado como IDE o VS Code.
 
-### Para os testes, era possível criar classes de testes unitários, a idéia é muito conhecida por mim e eu saberia implementar, mas infelizmente não consegui fazer a tempo. Portanto, para a validação das informações, utilizei do Terminal do VS Code, executando comandos como "print()" e "show()" com dados limitados a 100, e após validado, a limitação e os "debuggers" foram retirados.
+Para os testes, era possível criar classes de testes unitários, a idéia é muito conhecida por mim e eu saberia implementar, mas infelizmente não consegui fazer a tempo. Portanto, para a validação das informações, utilizei do Terminal do VS Code, executando comandos como "print()" e "show()" com dados limitados a 100, e após validado, a limitação e os "debuggers" foram retirados.
 
-### Os arquivos e pastas foram organizados baseado na responsabilidade de cada operação, sendo
+Os arquivos e pastas foram organizados baseado na responsabilidade de cada operação, sendo
 - reading = responsavel pela leitura dos dados
 - pre processing = responsavel pela limpeza dos dados
 - transformation = responsavel pela transformação do dado, como convertendo tabelas, ajustando valores ou criando colunas
@@ -45,5 +45,5 @@ Para o desenvolvimento da aplicação, foi utilizado como IDE o VS Code.
 
 
 ## Utilização da Aplicação
-### Ao iniciar a aplicação executando o comando "python app.py" pelo terminal, terá uma tela no console com as opções de agrupamento, ao selecionar uma delas, a aplicação irá criar um arquivo json com as informações agrupadas como solicitado
+Ao iniciar a aplicação executando o comando "python app.py" pelo terminal, terá uma tela no console com as opções de agrupamento, ao selecionar uma delas, a aplicação irá criar um arquivo json com as informações agrupadas como solicitado
 

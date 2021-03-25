@@ -1,4 +1,4 @@
-### Nathália Regina Puglisi de Souza
+### Nathália Puglisi
 
 ## Instruções
 Para a execução deste teste, existem alguns itens que precisam ser executados inicialmente, sendo:
